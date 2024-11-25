@@ -2,7 +2,7 @@
 
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=cauaalencarr&show_icons=true&theme=transparent" alt="cauaalencarr" style="width: 49%; height: 160px;"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=cauaalencarr&show_icons=true&theme=transparent" alt="cauaalencarr" style="width: 49%; height: 140px;"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaalencarr&layout=compact&theme=transparent" alt="cauaalencarr" "/>
 </div>
 
