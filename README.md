@@ -1,4 +1,4 @@
-## Olá eu me chamo Cauã Alves, sou estudante universitário de Análise e Desenvolvimento de Sistemas!
+## Olá eu sou Cauã Alves, sou estudante universitário de Análise e Desenvolvimento de Sistemas!
 
 <div>
   <a href="https://instagram.com/cauaalencarr_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
