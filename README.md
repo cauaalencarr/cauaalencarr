@@ -2,7 +2,7 @@
 
 ###
 
-<p>:books: Cursando 2º semestre em Analise e Desenvolvimento de Sistemas</p>
+<p>:books: Cursando 1º semestre em Analise e Desenvolvimento de Sistemas</p>
 
 ###
 
