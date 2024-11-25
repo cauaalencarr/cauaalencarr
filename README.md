@@ -2,8 +2,8 @@
 
 
 <div>
-  <p align=""> <img src="https://github-readme-stats.vercel.app/api?username=cauaalencarr&show_icons=true&theme=transparent" alt="cauaalencarr" />
-  <p align=""> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaalencarr&layout=compact&theme=transparent" alt="cauaalencarr" />
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=cauaalencarr&show_icons=true&theme=transparent" alt="cauaalencarr" />
+  <p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaalencarr&layout=compact&theme=transparent" alt="cauaalencarr" />
   
 </div>
 
