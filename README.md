@@ -1,4 +1,11 @@
-## Olá eu sou Cauã Alves, sou estudante universitário de Análise e Desenvolvimento de Sistemas!
+##Olá! Me chamo Cauã Alves 😎
+
+###
+
+<p>:books: Cursando 2º semestre em Analise e Desenvolvimento de Sistemas</p>
+
+###
+
 
 
 <div>
