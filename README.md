@@ -2,8 +2,8 @@
 
 
 <div style="display: flex; align-items: center; justify-content: center;height: 250px">
-  <img src="https://github-readme-stats.vercel.app/api?username=cauaalencarr&show_icons=true&theme=transparent" alt="cauaalencarr" style="width: 45%;"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaalencarr&layout=compact&theme=transparent" alt="cauaalencarr"style="width: 45%; "/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cauaalencarr&show_icons=true&theme=transparent" alt="cauaalencarr" style="width: 40%;"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaalencarr&layout=compact&theme=transparent" alt="cauaalencarr"style="width: 40%; "/>
 </div>
 
 <div>
