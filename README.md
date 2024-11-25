@@ -1,7 +1,7 @@
 ## Olá eu sou Cauã Alves, sou estudante universitário de Análise e Desenvolvimento de Sistemas!
 
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=cauaalencarr&show_icons=true&theme=transparent" alt="cauaalencarr" style="width: 45%; auto;"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaalencarr&layout=compact&theme=transparent" alt="cauaalencarr" style="width: 45%; auto;"/>
 </div>
